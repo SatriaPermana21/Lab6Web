@@ -11,14 +11,13 @@ Membuat Program HTML Dengan Web FrameWork
 
 
 ## Langkah - langkah
-1. Membuat CSS Container
-a. Membuat Header
+1. Membuat Header
 
 
 ![2.png](gambar/2.png)
 
 
-b. Membuat Navbar
+2. Membuat Navbar
 
 
 
@@ -28,7 +27,7 @@ b. Membuat Navbar
 
 
 
-c. Membuat class hero
+3. Membuat class hero
 
 
 
@@ -36,7 +35,7 @@ c. Membuat class hero
 
 
 
-d. Membuat class main
+4. Membuat class main
 
 
 
@@ -51,7 +50,7 @@ d. Membuat class main
 
 
 
-e. Membuat class devider
+5. Membuat class devider
 
 
 
@@ -61,7 +60,7 @@ e. Membuat class devider
 
 
 
-f. Membuat footer
+6. Membuat footer
 
 
 
@@ -69,7 +68,7 @@ f. Membuat footer
 
 
 
-Membuat css untuk mengatur Web Frameworknya
+7. Membuat css untuk mengatur Web Frameworknya
 
 
 
