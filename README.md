@@ -1,4 +1,7 @@
 # Lab6Web
+MUHAMMAD SAFRI SATRIA PERMANA 
+TI.20.A.2 
+
 Web Framework
 
 Membuat Program HTML Dengan Web FrameWork
